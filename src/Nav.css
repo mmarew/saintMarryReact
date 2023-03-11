@@ -30,6 +30,10 @@ li {
 .navLinks {
   text-decoration: none;
   color: white;
+  /* font-family: "Maghfirea", sans-serif; */
+  font-family: "Noto Serif", serif;
+  font-family: "Nunito", sans-serif;
+  font-family: "Source Serif Pro", serif;
 }
 .noneHomeNav {
   color: black;
