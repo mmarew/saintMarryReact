@@ -1,0 +1,25 @@
+.bodyImages {
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+}
+.bodyImages img {
+  width: 33.2%;
+  margin-bottom: -28vw;
+  z-index: -1;
+}
+section {
+  display: flex;
+  height: 27vw;
+  opacity: 0.8;
+  padding-top: 1vh;
+  width: 100%;
+  background-image: linear-gradient(to top, #221f21, transparent);
+}
+section div {
+  flex: 1;
+  color: white;
+  font-family: "Maghfirea", sans-serif;
+  font-size: 35px;
+}
