@@ -15,6 +15,16 @@ function Footer() {
           about the virgin marry in Ethiopia, Eritrea, and Egypt, and preserved
           in Geez between 1300 and the present
         </li>
+        <br />
+        <li>
+          princeton Department of Comparative Literature 133 East pyne ,
+          princeton, NJ08540 princeton Department of African American Studies
+          123 west Pyne, princeton, NJ 08540
+        </li>
+        <br />
+        <li>pemm@princeton.edu</li>
+        <br />
+        <li>&#169; 2022 The Trustees of Princeton Univerity </li>
       </ul>
       <ul>
         <li>

@@ -40,3 +40,7 @@ footer ul {
 }
 first-footer-child {
 }
+footer ul li {
+  font-family: "Noto Serif", serif;
+  font-family: "Nunito", sans-serif;
+}
