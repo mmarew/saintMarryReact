@@ -14,9 +14,24 @@ function Home() {
         </div>
       </main>
       <section>
-        <div>Stories</div>
-        <div>Manuscripts</div>
-        <div>Paintings</div>
+        <div>
+          <div className="Featured">Featured</div>
+          <div className="title">Stories </div>
+          <div className="detailes">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ex
+            ut odit voluptas, molestiae accusamus aut repellendus impedit. Quasi
+            temporibus ea sit odio tenetur quaerat laudantium? A, totam minus.
+            Nesciunt?
+          </div>
+        </div>
+        <div>
+          <div className="Featured">Featured</div>
+          <div className="title">Manuscripts </div>
+        </div>
+        <div>
+          <div className="Featured">Featured</div>
+          <div className="title">Paintings </div>
+        </div>
       </section>
     </>
   );

@@ -14,6 +14,7 @@ nav {
   width: 100%;
   /* opacity: 0.6; */
   padding-bottom: 90px;
+  z-index: 4;
 }
 .navLinks {
   opacity: 1;
